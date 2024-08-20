@@ -1,5 +1,4 @@
-# HTB_FAWN
-CTF Writeup for FAWN on HTB
+# CTF Writeup for Meow on HTB platform
 
 ### Briefing:
 
